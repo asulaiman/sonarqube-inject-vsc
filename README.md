@@ -1,5 +1,7 @@
 # SonarQube support for Visual Studio Code extension
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/silverbulleters/sonarqube-inject-vsc.svg)](https://greenkeeper.io/)
+
 [![Join the chat at https://gitter.im/silverbulleters/sonarqube-inject-vsc](https://badges.gitter.im/silverbulleters/sonarqube-inject-vsc.svg)](https://gitter.im/silverbulleters/sonarqube-inject-vsc?utm_source=badge&utm_medium=badge&utm_content=badge)
 [![GitHub release](https://img.shields.io/github/release/silverbulleters/sonarqube-inject-vsc.svg)](https://github.com/silverbulleters/sonarqube-inject-vsc/blob/master/CHANGELOG.md)
 [![Dependency Status](https://gemnasium.com/badges/github.com/silverbulleters/sonarqube-inject-vsc.svg)](https://gemnasium.com/github.com/silverbulleters/sonarqube-inject-vsc)
